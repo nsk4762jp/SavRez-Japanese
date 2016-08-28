@@ -17,7 +17,8 @@ S2Games 制作の RTS+FPS ゲーム「[Savage Resurrection](http://store.steampo
 
 ## インストール
 
-リリースファイルに含まれる [Game.locres](https://github.com/nsk4762jp/SavRez-Japanese/releases/download/v1.0/Game.locres) を書きフォルダに上書きしてください。
+リリースファイルに含まれる [Game.locres](https://github.com/nsk4762jp/SavRez-Japanese/releases/download/v1.0/Game.locres) を下記フォルダに上書きしてください。  
+
     (Steam フォルダ)/steamapps/common/Savage Resurrection/Savage/Content/Localization/Game/ja
 
 ## ライセンス
